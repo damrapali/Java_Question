@@ -18,6 +18,7 @@ public class SetEntry {
 		hs.add(22);
 		hs.add(2);
 		hs.add(22);
+		hs.add(24);
 		
 		System.out.println(hs);
 	}
